@@ -1,2 +1,2 @@
 # RouletteReaderOpenCV
-Finding the number that a ball landed on using OpenCV + Python 
+Finding the number that a ball landed on using OpenCV + Python.
